@@ -1,4 +1,8 @@
+#input del algoritmo pones el dia de la semana
+
 dia=input('dia de la semana'.lower())
+#el metodo del algoritmo que elige el dia siguiente que ha elegido anteriormente
+
 def ser(dia):
     if dia=='lunes':
         return 'martes'
@@ -16,3 +20,6 @@ def ser(dia):
         return 'lunes'
     else:
         ValueError('Tienes que poner un dia de la semana')
+#el output que te da el dia siguiente del elegido anteriormente
+
+print('el dia siguente es',ser(dia))
