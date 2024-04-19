@@ -44,9 +44,6 @@ a=trayecto(alumnos)
 b=alojamiento(dias,alumnos)
 c=comida(precio_c,alumnos)
 
-#print(a)
-#print(b)
-#print(c)
 
 #Este metodo es el precio que tiene que pagar cada alumno
 def suma_p(a,b,c,alumnos):
