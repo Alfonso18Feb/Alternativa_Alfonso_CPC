@@ -1,6 +1,6 @@
 # Alternativa_Alfonso_CPC
 
-# link: https://github.com/Alfonso18Feb/Alternativa_Alfonso_CPC)](https://github.com/Alfonso18Feb/Alternativa_Alfonso_CPC
+# link: https://github.com/Alfonso18Feb/Alternativa_Alfonso_CPC
 
 ## EJ 1 : Sucesor de un DÍA de la semana
 
